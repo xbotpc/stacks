@@ -1,17 +1,17 @@
 {
-  "name": "xbotpc-react-redux-ts-pwa-template",
+  "name": "stacks",
   "author": {
     "name": "Piyush Choughule",
     "email": "piyush2396@gmail.com"
   },
-  "description": "Template for making initializing new React-Redux projects with Typescript and PWA functionality.",
+  "description": "Block Stacking Game made in React and Typescript",
   "repository": {
     "url": "https://github.com/xbotpc/react-redux-pwa-ts-template",
     "type": "git"
   },
   "license": "MIT",
-  "displayName": "React-Redux-TS-PWA Template by xbotpc",
-  "homepage": "https://xbotpc.github.io/react-redux-pwa-ts-template/",
+  "displayName": "Stacks by xbotpc",
+  "homepage": "https://xbotpc.github.io/stacks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
