@@ -1,0 +1,28 @@
+@import '../../styles/common.scss';
+
+.gameContainer {
+    display        : flex;
+    flex-direction : column-reverse;
+    justify-content: center;
+    align-items    : center;
+    height         : 100%;
+
+    .line {
+        display           : flex;
+        column-gap        : 2px;
+        align-items       : center;
+        justify-content   : center;
+        // height         : 100%;
+
+        .ball {
+            width           : 20px;
+            height          : 20px;
+            border-radius   : 50%;
+            background-color: gray;
+
+            &.active {
+                background-color: palevioletred;
+            }
+        }
+    }
+}

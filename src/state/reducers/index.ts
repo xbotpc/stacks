@@ -1,4 +1,4 @@
 import { combineReducers } from "redux";
-import playback from './playbackReducer';
+import gameReducer from './gameReducer';
 
-export const rootReducer = combineReducers({ playback })
+export const rootReducer = combineReducers({ gameReducer })
